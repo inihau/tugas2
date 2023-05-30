@@ -38,4 +38,4 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 client = MyClient(intents=intents)
-client.run('MTExMDU2MDE3MDY3ODk0Mzg0Ng.GAV5We.gVuoY7yZhDzhGGtMincT1Ua6p59_ko13I0U_bo')
+client.run('token kamu disini')
